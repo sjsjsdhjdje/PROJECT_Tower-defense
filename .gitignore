@@ -5,5 +5,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-*.csproj
-*.sln
+
+.vs/
+.vscode/
+.gradle/
+
+.DS_Store
+Thumbs.db
